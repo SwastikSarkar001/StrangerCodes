@@ -6,7 +6,6 @@
     "dev": "bun --bun next dev",
     "build": "bun --bun next build",
     "start": "bun --bun next start",
-    "postinstall": "bunx --bun prisma generate",
     "lint": "eslint"
   },
   "dependencies": {
